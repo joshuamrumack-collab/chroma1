@@ -1,0 +1,80 @@
+EXE C:/Users/joshu/Desktop/Godot_v4.7.2-stable_win64.exe 4.7.2-stable (official)
+TEMPLATES 4.7.stable: web_debug.zip, web_dlink_debug.zip, web_dlink_nothreads_debug.zip, web_dlink_nothreads_release.zip, web_dlink_release.zip, web_nothreads_debug.zip, web_nothreads_release.zip, web_release.zip
+EXPORT exit 0
+39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/levels/level_2_5.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/levels/level_1_3.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/levels/gallery_kit.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/levels/level_1_5.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/levels/level_1_2.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/levels/level_3_4.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/levels/level_5_4.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/levels/level_5_3.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/levels/level_5_5.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/levels/level_base.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/levels/level_6_1.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/levels/pieces.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/levels/level_6_2.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/levels/level_6_5.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/villager.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/web_assets.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/levels/level_6_3.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/story_transition.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/world_color.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/acts/act_garden.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/autoload/music.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/acts/act_gallery.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/acts/act_city.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/acts/act_bright.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scenes/main.tscn.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/autoload/game.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/autoload/sfx.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/autoload/settings.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/acts/act_village.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/acts/act_hollow.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/wakeable.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/player.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/autotest.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/palette_hud.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/model_util.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/smudge.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/puddle.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/color_source.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/stroke.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/brush.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/color_mask.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/main.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/camera_rig.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/tint_sprite.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/checkpoint.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/arm_ik.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/hud.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/ambient.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/color_drop.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/paint_controller.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/goal.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/painted.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/intro.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/levels/level_6_4.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/fx.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/zones.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/fade.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/marker.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/paint_button.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/menu.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/autoload/paint.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://.godot/global_script_class_cache.cfg[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://.godot/uid_cache.bin[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://project.binary[39m[0m
+[92m[ DONE ][39m [1msavepack[22m
+[0m
+
+OUT index.apple-touch-icon.png 11944
+OUT index.audio.position.worklet.js 2973
+OUT index.audio.worklet.js 7298
+OUT index.html 5438
+OUT index.icon.png 5700
+OUT index.js 279815
+OUT index.pck 71022584
+OUT index.png 21443
+OUT index.wasm 39509339
