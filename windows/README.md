@@ -1,4 +1,4 @@
-# Chroma 2D – Beta 1 (Windows)
+# Chroma 2D – Beta 2 (Windows)
 
 GitHub limits files to 100 MB, so the game comes in 4 parts. Download all of them
 into the same folder:
@@ -18,5 +18,13 @@ Then:
 
 Every chapter and level is open from the start (Chapters on the title screen). The controls
 are in the README inside the zip.
+
+New in Beta 2:
+
+- **Map** (M or Tab): the level painted small inside a framed map, showing only what
+  you've colored. Easels appear once you've colored their spot.
+- **Locked easels**: bring back 3 faded things on the way by coloring them first.
+- **Coverage medals** (bronze 20%, silver 35%, gold 55%) and paint you get back from colorful things.
+- Light in the Hollow, new walk cycles, no foreground clutter.
 
 Found a bug or got stuck? Note the level (for example 3-4) and what you were doing.
