@@ -6,7 +6,7 @@ stroke at a time. **Chroma 2D is now the main version.**
 - **Play in the browser:** this repo's GitHub Pages site (the files at the root are the
   browser build). Use a desktop browser; the first load is about 100 MB. The films are
   skipped in the browser.
-- **Play on Windows:** see [`windows/`](windows/README.md).
+- **Play on Windows (beta):** see [`windows/`](windows/README.md) for the download links.
 
 Every chapter opens with a short narrated film (the Windows build).
 
