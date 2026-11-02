@@ -4,9 +4,11 @@ A painter's side-scroller: the world has lost its color, and Tint brings it back
 stroke at a time. **Chroma 2D is now the main version.**
 
 - **Play in the browser:** this repo's GitHub Pages site (the files at the root are the
-  browser build). Use a desktop browser; the first load is about 100 MB. The opening and
-  ending films are skipped in the browser.
+  browser build). Use a desktop browser; the first load is about 100 MB. The films are
+  skipped in the browser.
 - **Play on Windows:** see [`windows/`](windows/README.md).
+
+Every chapter opens with a short narrated film (the Windows build).
 
 This is a testing build: every chapter and level (all six chapters, 30 levels, each with
 both exits) is open from the start.
