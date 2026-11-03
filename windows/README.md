@@ -21,7 +21,7 @@ are in the README inside the zip.
 
 New in Beta 3:
 
-- **A painted title**: Tint paints the logo onto a blank sheet before the menu.
+- **A new title**: Tint paints the logo onto a blank sheet, then sits on a branch over the valley, which colours back as you finish chapters.
 - **Smoother movement**: new walk and run, she eases to a stop, and lands with a squash and a splash of paint.
 - **Brush hop**: press Jump again in mid-air (Shift no longer hops).
 - **Accessibility** (Settings): colour-blind symbols and patterns, a slower game speed, click-to-paint, and less screen shake.

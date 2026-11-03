@@ -15,3 +15,5 @@ both exits) is open from the start.
 
 The earlier 3D version is kept on the [`3d`](../../tree/3d) branch (browser build), and its
 last Windows build is on [`playtest-2`](../../tree/playtest-2).
+
+**Android beta:** see [android/](android/) for the app and how to install it.
